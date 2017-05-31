@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HW2</string>
+    <string name="number">Enter Number</string>
+    <string name="number_process">Explicit Intent</string>
+    <string name="intent_process">Implicit Intent</string>
+    <string name="title_activity_number">NumberActivity</string>
+    <string name="mainActivityTittle">HW2</string>
+</resources>
